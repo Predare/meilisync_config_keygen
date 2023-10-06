@@ -55,6 +55,9 @@ cover/
 *.mo
 *.pot
 
+# YAML configs
+*.yml
+
 # Django stuff:
 *.log
 local_settings.py

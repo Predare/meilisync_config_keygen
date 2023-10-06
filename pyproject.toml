@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "meilisync_config_keygen"
-version = "0.0.1"
+version = "0.0.2"
 authors = [{ name = "predare", email = "predare12000@gmail.com" }]
 description = "A package designed to generate the Meilisearch API key and implement it in config.yml meilisync service"
 readme = "README.md"

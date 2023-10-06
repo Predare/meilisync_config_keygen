@@ -6,6 +6,6 @@ To generate a key, in the system where the script will be launched, the key must
 
 This package runs from the command line and allows you to use the following parameters:
 
---path (def. ./config.example.yml) - Used to specify an example configuration file.
---output (def. ./config.yml) - Used to specify the path where the configuration file will be located
+--path (def. ./config.example.yml) - Used to specify an example configuration file. \n
+--output (def. ./config.yml) - Used to specify the path where the configuration file will be located \n
 --address (def. http://localhost:7700) - Meilisearch service address
